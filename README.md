@@ -37,7 +37,7 @@ It uses [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) for speech r
 
 ```bash
 git clone https://github.com/<your-username>/<IBIL-Intelligent-Bot-In-Laptop->.git
-cd <your-repo-name>
+cd <IBIL-Intelligent-Bot-In-Laptop->
 ```
 
 **2. (Recommended) Create a virtual environment**
