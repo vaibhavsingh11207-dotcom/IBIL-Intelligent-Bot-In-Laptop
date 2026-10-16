@@ -53,6 +53,8 @@ venv\Scripts\activate
 pip install faster-whisper sounddevice numpy scipy pyautogui
 ```
 
+OR,
+
 ```bash
 pip install -r requirements.txt
 ```
