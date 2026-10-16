@@ -1,5 +1,5 @@
 # IBIL-Intelligent-Bot-In-Laptop-
-A voice assistant made using python and faster whisper , no API required , runs on your PC . 
+A voice assistant made using Python and Faster-Whisper, no API required, runs on your PC. 
 It uses [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) for speech recognition, so everything runs **locally on your CPU**, with no cloud API and no internet needed for transcription.
 
 ## Features
@@ -36,8 +36,8 @@ It uses [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) for speech r
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/<IBIL-Intelligent-Bot-In-Laptop->.git
-cd <IBIL-Intelligent-Bot-In-Laptop->
+git clone https://github.com/<your-username>/IBIL-Intelligent-Bot-In-Laptop.git
+cd IBIL-Intelligent-Bot-In-Laptop
 ```
 
 **2. (Recommended) Create a virtual environment**
@@ -87,10 +87,10 @@ In the `take_screenshot()` function, change this path to a folder on your comput
 SCREENSHOT_DIR = r"C:\Users\DELL\Downloads\Projects\test screenshots"
 ```
 
-all the screenshots taken ,using the voice command, will be saved in this folder. this is why it is highly recommended that you create a virtual environment.
+all the screenshots taken ,using the voice command, will be saved in this folder. 
 
 
-### 4. Check the Chrome path .
+### 4. Check the Chrome path 
 
 If Chrome is installed somewhere else, update the path in `open_chrome()`:
 
@@ -103,10 +103,10 @@ r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 Run the assistant:
 
 ```bash
-python main.py
+python IBIL.py
 ```
 
-*(Replace `main.py` with whatever your script file is named.)*
+*(Replace `IBIL.py` with whatever your script file is named.)*
 
 You will see:
 
@@ -155,7 +155,9 @@ Speak your command within the 5-second recording window. The assistant transcrib
 - Config file for paths and mic settings
 - More commands (volume control, opening other apps, closing windows)
 
+##License
 
+This project is licensed under the MIT License. Add a LICENSE file to your repo if you want to use this.
 
 ---
 
