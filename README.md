@@ -42,10 +42,7 @@ cd <IBIL-Intelligent-Bot-In-Laptop->
 
 **2. (Recommended) Create a virtual environment**
 
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
+it is recommended that you create a virtual environment . 
 
 **3. Install the dependencies**
 
