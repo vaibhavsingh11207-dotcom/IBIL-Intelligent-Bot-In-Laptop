@@ -90,7 +90,7 @@ SCREENSHOT_DIR = r"C:\Users\DELL\Downloads\Projects\test screenshots"
 all the screenshots taken ,using the voice command, will be saved in this folder. this is why it is highly recommended that you create a virtual environment.
 
 
-### 4. Check the Chrome path (optional)
+### 4. Check the Chrome path .
 
 If Chrome is installed somewhere else, update the path in `open_chrome()`:
 
