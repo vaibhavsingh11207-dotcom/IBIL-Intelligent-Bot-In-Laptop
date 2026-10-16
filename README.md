@@ -155,9 +155,7 @@ Speak your command within the 5-second recording window. The assistant transcrib
 - Config file for paths and mic settings
 - More commands (volume control, opening other apps, closing windows)
 
-## License
 
-This project is licensed under the MIT License. Add a `LICENSE` file to your repo if you want to use this.
 
 ---
 
