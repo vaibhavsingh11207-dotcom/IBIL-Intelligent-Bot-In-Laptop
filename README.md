@@ -42,7 +42,7 @@ cd <IBIL-Intelligent-Bot-In-Laptop->
 
 **2. (Recommended) Create a virtual environment**
 
-it is recommended that you create a virtual environment . 
+it is highly recommended that you create a virtual environment .
 
 **3. Install the dependencies**
 
