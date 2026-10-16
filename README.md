@@ -1,4 +1,4 @@
-# IBIL-Intelligent-Bot-In-Laptop-
+# IBIL-Intelligent-Bot-In-Laptop
 A voice assistant made using Python and Faster-Whisper, no API required, runs on your PC. 
 It uses [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) for speech recognition, so everything runs **locally on your CPU**, with no cloud API and no internet needed for transcription.
 
